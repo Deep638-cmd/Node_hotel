@@ -30,4 +30,5 @@ unique: true
 const person=mongoose.model('person',personschema);
 
 //Export
+// This is for testing purpose
 module.exports=person;
